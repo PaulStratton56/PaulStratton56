@@ -1,19 +1,24 @@
-# ❄️ **You found me!** ❄️
-Welcome to my Github! My name is __Paul Stratton__. Some stuff about me:
-> Computer Science and Engineering major at the University of California, Merced (graduating Dec. 2024 🎓)
+# ❄️ **YAHAHA! You found me!** ❄️
+### Welcome to my Github! My name is __Paul Stratton__. 
 
-Always looking to improve! (Fleshing this README out soon!)
-<!--
-**PaulStratton56/PaulStratton56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **\- - -\~\~===oO00{ 🔍 AT-A-GLANCE ABOUT ME 🔎 }0O0o===\~\~- - -**
+* 🎓 Computer Science and Engineering major at the University of California, Merced (graduating Dec. 2024 🎓)
+* 🍰 20 (B-day 10/11/03 🍰)
+* 🎮 Gamer (Adventure, Platformers, FPS)
+* ✏️ Tutor (Math, CSE)
+* 🥼 Researcher (assisting with ML models for forest navigation model)
 
-Here are some ideas to get you started:
+### **\- - -\~\~===oO00{ 🗨️ CONTACT INFORMATION 🗨️ }0O0o===\~\~- - -**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Listed from most likely to least likely to respond:
+* **DISCORD:** icywind56
+* **EMAIL:** paulstratton56@gmail.com
+* **OTHER METHODS:** Check out my dot profile here: https://dot.cards/paulstratton
+
+Feel free to check out my projects, and don't be a stranger!
+
+P.S. if you feel like sharing your music taste, please reach out to me! I'm always looking for something new!
+
+Have a good one 👋
+
+~ Paul S.
