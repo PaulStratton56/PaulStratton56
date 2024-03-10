@@ -1,4 +1,4 @@
-❄️ # **You found me!** ❄️
+# ❄️ **You found me!** ❄️
 Welcome to my Github! My name is __Paul Stratton__. Some stuff about me:
 > Computer Science and Engineering major at the University of California, Merced (graduating Dec. 2024 🎓)
 Always looking to improve! (Fleshing this README out soon!)
