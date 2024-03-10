@@ -3,7 +3,6 @@
 
 ### **\- - -\~\~===oO00{ 🔍 AT-A-GLANCE ABOUT ME 🔎 }0O0o===\~\~- - -**
 * 🎓 Computer Science and Engineering major at the University of California, Merced (graduating Dec. 2024 🎓)
-* 🍰 B-day: 10/11/03
 * 🎮 Gamer (Adventure, Platformers, FPS)
 * ✏️ Tutor (Math, CSE)
 * 🥼 Researcher (assisting with ML models for forest navigation model)
