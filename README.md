@@ -15,7 +15,7 @@ Listed from most likely to least likely to respond:
 * **EMAIL:** paulstratton56@gmail.com
 * **OTHER METHODS:** Check out my dot profile here: https://dot.cards/paulstratton
 
-Feel free to check out my projects, and don't be a stranger!
+Feel free to check out my projects below, and don't be a stranger!
 
 P.S. if you feel like sharing your music taste, please reach out to me! I'm always looking for something new!
 
