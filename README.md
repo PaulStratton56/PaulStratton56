@@ -2,7 +2,7 @@
 ### Welcome to my Github! My name is __Paul Stratton__. 
 
 ### **\- - -\~\~===oO00{ 🔍 AT-A-GLANCE ABOUT ME 🔎 }0O0o===\~\~- - -**
-* 🎓 Computer Science and Engineering major at the University of California, Merced (graduating Dec. 2024 🎓)
+* 🎓 Computer Science and Engineering major at the University of California, Merced (graduating Dec. 2024 🎉)
 * 🎮 Gamer (Adventure, Platformers, FPS)
 * ✏️ Tutor (Math, CSE)
 * 🥼 Researcher (assisting with ML models for forest navigation model)
